@@ -1,8 +1,8 @@
 
 Results included in this manuscript come from preprocessing
-performed using *fMRIPrep* 22.0.0
+performed using *fMRIPrep* 22.0.1
 (@fmriprep1; @fmriprep2; RRID:SCR_016216),
-which is based on *Nipype* 1.8.3
+which is based on *Nipype* 1.8.4
 (@nipype1; @nipype2; RRID:SCR_002502).
 
 
@@ -35,7 +35,7 @@ The following templates were selected for spatial normalization:
 
 Functional data preprocessing
 
-: For each of the 10 BOLD runs found per subject (across all
+: For each of the 9 BOLD runs found per subject (across all
 tasks and sessions), the following preprocessing was performed.
 First, a reference volume and its skull-stripped version were generated
  using a custom
