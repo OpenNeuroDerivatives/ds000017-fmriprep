@@ -1,0 +1,58 @@
+[0;34mREMORA Notification: [0;34m  GPU monitoring is active, but not on this node type. [0m 
+Launcher: Setup complete.
+
+------------- SUMMARY ---------------
+   Number of hosts:    2
+   Working directory:  /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep
+   Processes per host: 4
+   Total processes:    8
+   Total jobs:         8
+   Scheduling method:  dynamic
+
+-------------------------------------
+Launcher: Starting parallel tasks...
+Launcher: Task 6 running job 1 on c211-015.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/runscript 0 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/stdout.0 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/stderr.0)
+Launcher: Task 2 running job 2 on c208-022.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/runscript 1 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/stdout.1 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/stderr.1)
+Launcher: Task 0 running job 3 on c208-022.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/runscript 2 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/stdout.2 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/stderr.2)
+Launcher: Task 5 running job 4 on c211-015.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/runscript 3 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/stdout.3 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/stderr.3)
+Launcher: Task 1 running job 5 on c208-022.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/runscript 4 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/stdout.4 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/stderr.4)
+Launcher: Task 3 running job 6 on c208-022.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/runscript 5 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/stdout.5 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/stderr.5)
+Launcher: Task 4 running job 7 on c211-015.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/runscript 6 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/stdout.6 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/stderr.6)
+Launcher: Task 7 running job 8 on c211-015.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/runscript 7 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/stdout.7 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/.reproman/jobs/local/20221014-152359-cfef/stderr.7)
+Launcher: Job 5 completed in 9123 seconds.
+Launcher: Task 1 done. Exiting.
+Launcher: Job 3 completed in 9243 seconds.
+Launcher: Task 0 done. Exiting.
+Launcher: Job 8 completed in 9390 seconds.
+Launcher: Task 7 done. Exiting.
+Launcher: Job 1 completed in 9767 seconds.
+Launcher: Task 6 done. Exiting.
+Launcher: Job 2 completed in 9948 seconds.
+Launcher: Task 2 done. Exiting.
+Launcher: Job 7 completed in 10443 seconds.
+Launcher: Task 4 done. Exiting.
+Launcher: Job 4 completed in 10644 seconds.
+Launcher: Task 5 done. Exiting.
+Launcher: Job 6 completed in 10639 seconds.
+Launcher: Task 3 done. Exiting.
+Launcher: Done. Job exited without errors
+
+
+
+=============================== REMORA SUMMARY ===============================
+ Max Virtual  Memory Per Node :    97.51 GB
+ Max Physical Memory Per Node :    60.85 GB
+ Available Memory at time 0.0 :   177.56 GB
+ Total Elapsed Time           :  0d 2h 57m 42s 931ms
+------------------------------------------------------------------------------
+ Max IO Load / home1          :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / scratch1       :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / scratch2       :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / scratch3       :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / work2          :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+==============================================================================
+ Sampling Period              : 10 seconds
+ Report Directory             : R=/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000017-fmriprep/remora_4927575
+ Google Plots HTML Index Page : $R/remora_summary.html
+==============================================================================
+
