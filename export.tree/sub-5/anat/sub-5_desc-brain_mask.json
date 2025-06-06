@@ -1,0 +1,9 @@
+{
+  "RawSources": [
+    "sub-5/ses-timepoint1/anat/sub-5_ses-timepoint1_run-0_T1w.nii.gz",
+    "sub-5/ses-timepoint1/anat/sub-5_ses-timepoint1_run-1_T1w.nii.gz",
+    "sub-5/ses-timepoint2/anat/sub-5_ses-timepoint2_run-0_T1w.nii.gz",
+    "sub-5/ses-timepoint2/anat/sub-5_ses-timepoint2_run-1_T1w.nii.gz"
+  ],
+  "Type": "Brain"
+}
